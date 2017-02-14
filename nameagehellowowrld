@@ -1,0 +1,9 @@
+print{'Hello World'}
+print('Whats your name')
+myname=input()
+print('Its goo to meet you',+myame)
+print('your anme length is')
+print(len(myname))
+print('Wahts your age')
+myage=int(input())
+print('you will be'+str(int(myage)+1)+'in a year')
